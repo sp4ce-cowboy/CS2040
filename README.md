@@ -15,4 +15,4 @@ One-Day Assignments
 - [ ] HumanCannonball
 
 Take-Home Assignment
-- [ ] Teque
+- [x] Teque
